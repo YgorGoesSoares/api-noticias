@@ -17,9 +17,9 @@ spring.datasource.password=123456
 
 Para baixar o projeto, você pode cloná-lo diretamente do GitHub:
 
-```bash
+
 gh repo clone YgorGoesSoares/api-noticias
-`
+
 ## Documentação
 
 A documentação da API está disponível em formato JSON e pode ser acessada [aqui](https://ygorgoessoares.github.io/api-noticias/API_news_documentation.json).
